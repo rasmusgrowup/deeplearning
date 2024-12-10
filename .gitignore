@@ -4,4 +4,4 @@ data/test_images/
 data/test_masks/
 env
 scripts/__pycache__
-unet_model.pth
+data/models/unet_model.pth
