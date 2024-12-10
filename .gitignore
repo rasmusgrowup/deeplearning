@@ -1,0 +1,7 @@
+data/images
+data/masks
+data/test_images/
+data/test_masks/
+env
+scripts/__pycache__
+unet_model.pth
